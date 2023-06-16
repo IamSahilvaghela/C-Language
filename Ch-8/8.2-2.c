@@ -21,8 +21,8 @@ main()
 	}
 	
 	printf("The array is : \n");
-	for(i=0; i<=k;i++){
-	printf("%d ",a[i]);
+	for(p=0; p<=k; p++){
+	printf("%d ",a[p]);
 	}
 }
 
